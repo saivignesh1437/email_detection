@@ -24,10 +24,10 @@ WORKDIR /app
 # Copy compiled classes from builder stage
 COPY --from=builder /app/out ./out
 
-# Defaults for Render private service deployment
+# Defaults for local use; Render overrides PORT for the public web service.
 ENV PORT=8080
 ENV DSA_HOST=0.0.0.0
 
-EXPOSE 8080
+EXPOSE 10000
 
 ENTRYPOINT ["java", "-cp", "out", "main.SpamApi"]

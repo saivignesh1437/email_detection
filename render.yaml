@@ -4,7 +4,7 @@
 # ==============================================================================
 # Services:
 #   1. PostgreSQL Managed Database
-#   2. Java DSA Spam Detection Engine (Private Service)
+#   2. Java DSA Spam Detection Engine (Public Web Service, free plan)
 #   3. FastAPI Backend (Web Service)
 #   4. React + Vite Frontend (Static Site)
 # ==============================================================================
@@ -23,20 +23,19 @@ databases:
 
 services:
   # ----------------------------------------------------------------------------
-  # 2. Java DSA Spam Detection Engine (Private Service)
-  #    Note: Render private services require a paid instance type (e.g. starter)
-  #    as Render does not provide a free tier for 'pserv'.
+  # 2. Java DSA Spam Detection Engine (public Web Service)
+  #    Free web services have a public URL and spin down when idle.
   # ----------------------------------------------------------------------------
-  - type: pserv
+  - type: web
     name: dsa-spam-engine
-    env: docker
+    runtime: docker
     dockerfilePath: ./dsa-engine/Dockerfile
     dockerContext: ./dsa-engine
-    plan: starter
+    plan: free
     region: oregon
     envVars:
       - key: PORT
-        value: 8080
+        value: 10000
       - key: DSA_HOST
         value: 0.0.0.0
 
@@ -59,7 +58,7 @@ services:
           name: email-detection-db
           property: connectionString
       - key: DSA_ENGINE_URL
-        value: http://dsa-spam-engine:8080
+        value: https://dsa-spam-engine.onrender.com
       - key: SECRET_KEY
         generateValue: true
       - key: ALLOWED_ORIGINS
@@ -74,7 +73,7 @@ services:
     name: email-detection-frontend
     runtime: static
     rootDir: frontend
-    buildCommand: npm install && npm run build
+    buildCommand: npm ci && npm run build
     staticPublishPath: ./dist
     plan: free
     envVars:
