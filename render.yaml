@@ -77,7 +77,6 @@ services:
     buildCommand: npm install && npm run build
     staticPublishPath: ./dist
     plan: free
-    region: oregon
     envVars:
       - key: VITE_API_URL
         value: https://email-detection-backend.onrender.com/api
