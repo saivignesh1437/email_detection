@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.venv/
+.env
+
+# Java / DSA Engine outputs
+*.class
+dsa-engine/out/
+out/
+
+# Database local cluster & logs
+pgdata/
+*.log
+*.pid
+.backend.pid
+.dsa_engine.pid
+.frontend.pid
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.oxlint_cache/
+.vite/
+
+# Pytest / Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# System / OS
+.DS_Store
+Thumbs.db

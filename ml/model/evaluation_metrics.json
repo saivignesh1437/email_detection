@@ -1,0 +1,18 @@
+{
+  "model_type": "Multinomial Naive Bayes (alpha=0.5)",
+  "total_dataset_size": 179,
+  "train_samples": 143,
+  "test_samples": 36,
+  "accuracy": 0.9444,
+  "precision": 0.9,
+  "recall": 1.0,
+  "f1_score": 0.9474,
+  "confusion_matrix": {
+    "true_negatives": 16,
+    "false_positives": 2,
+    "false_negatives": 0,
+    "true_positives": 18
+  },
+  "feature_count": 2500,
+  "training_date": "2026-10-05T21:36:58.695356"
+}

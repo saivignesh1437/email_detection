@@ -1,0 +1,180 @@
+label,subject,body
+0,PBL Final Presentation Schedule,Please be informed that the final project reviews will commence next Monday at 9:00 AM in Seminar Hall 2. Bring your slides and code demonstration.
+0,Midterm Examination Results Published,The grades for Database Management Systems have been uploaded to the student portal. Please check your transcript and contact the professor if there are discrepancies.
+0,IEEE Conference Paper Submission Deadline,The deadline for paper submission has been extended by one week. Please format all manuscripts according to the IEEE two-column template.
+0,Research Lab Meeting Reminder,We have our weekly lab sync tomorrow at 3 PM. John will present the progress on the natural language processing classification pipeline.
+0,Library Book Return Notice,The following book is due for return in 3 days: Database System Concepts 7th Edition. You may renew online via the university library catalogue.
+0,Assignment 3 Submission Confirmation,Your submission for Cloud Computing Assignment 3 has been received successfully. Submitted file: assignment3_final.zip.
+0,Faculty Advisor Office Hours,Dr. Sharma will be available for project consultations on Tuesday and Thursday between 2 PM and 4 PM in cabin 405.
+0,Campus Placement Drive Registration,Registration for the upcoming technology campus recruitment drive closes tonight at 11:59 PM. Please ensure your resume is updated on the portal.
+0,Guest Lecture on Scalable Microservices,Join us for an online technical seminar with industry architect Rahul Verma on designing resilient microservices with FastAPI and Docker.
+0,ACM Student Chapter Hackathon Invitation,The annual 24-hour university hackathon begins this Saturday. Form teams of 2 to 4 students and register your project domain before Friday.
+0,Course Syllabus Revision Notice,Please review the updated syllabus for Advanced Algorithms attached to this email. Unit 4 now includes dynamic programming and network flow.
+0,Project Progress Report Review,"Dear team, your second milestone report on the email management system has been evaluated. The entity relationship diagram is approved."
+0,Thesis Defense Date Finalized,The academic committee has scheduled your master thesis defense for November 14th at 11:00 AM. Please submit printed copies of your dissertation.
+0,Student Exchange Program Openings,Applications are now open for the spring semester international exchange program. Minimum CGPA requirement is 8.0 with no standing backlogs.
+0,Internship Evaluation Form Due,All final year students completing industry internships must have their company mentors submit the signed evaluation rubric by end of month.
+0,Workshop on Git and GitHub Collaboration,"The computer science department is hosting a hands-on workshop covering Git branching, rebasing, merge conflicts, and GitHub Actions this weekend."
+0,Notice Regarding Holiday for Campus Elections,Classes and administrative offices will remain suspended tomorrow on account of the university student council elections.
+0,Peer Code Review Feedback,I looked through your pull request for the authentication service. Please replace raw password storage with bcrypt hashing before merging.
+0,Tuition Fee Payment Receipt,Thank you for your payment of semester tuition fees. Transaction reference TXN9872134 has been processed. Download receipt from student portal.
+0,Notice of System Maintenance for Campus Wi-Fi,Network connectivity will experience intermittent downtime on Sunday between 2 AM and 6 AM due to core switch firmware upgrades.
+0,Weekly Sprint Planning Meeting,"Team, the sprint planning session starts at 10 AM. Please make sure all Jira tickets are estimated and groomed beforehand."
+0,Pull Request #42 Approved and Merged,Your pull request adding the PostgreSQL connection pool and indexing migration has been reviewed by Alice and merged into main.
+0,Quarterly Engineering All-Hands Agenda,The quarterly engineering all-hands will be held virtually this Thursday. The leadership team will present the product roadmap and Q3 milestones.
+0,Production Deployment Successful: Release v2.4.0,Release v2.4.0 was deployed to production at 02:00 UTC with zero downtime. All smoke tests and health checks are passing.
+0,API Rate Limiting Incident Post-Mortem,Please read through the incident post-mortem regarding the 15-minute API degradation experienced yesterday due to an unindexed query.
+0,Client Demo Meeting Preparation,"Hi team, please prepare the staging environment for the client walkthrough tomorrow. We need to demonstrate the email filtering dashboard."
+0,Architecture Decision Record (ADR): Database Selection,"The team has finalized PostgreSQL as our primary relational database due to its native support for triggers, JSONB, and text search."
+0,Updated Team Vacation Calendar for Next Month,Please mark any scheduled leaves or holidays on the shared engineering calendar so we can balance sprint capacity accordingly.
+0,Backend Code Refactoring Proposal,Let us transition our service layer to use dependency injection in FastAPI. This will decouple the database session and simplify mock testing.
+0,New Joiner Introduction: Welcome David to the Team,Please join me in welcoming David Miller to the platform engineering team. David will be focusing on our search and indexing infrastructure.
+0,Security Vulnerability Patch Notice,A dependency vulnerability was identified in our testing suite. We have upgraded pytest and httpx to their latest stable releases.
+0,Database Migration Completed: Added Foreign Key Constraints,Alembic migration 004_add_fk_constraints executed successfully on staging. All referential integrity checks passed.
+0,Design System Guidelines and Component Library,"The design team has published the updated Figma component library. All frontend engineers should refer to this for buttons, inputs, and modals."
+0,Feedback on User Experience and Navigation,"During usability testing, users found the filter sidebar intuitive. We should retain this layout for the final demonstration."
+0,Database Backup Automation Verification,The daily automated pg_dump snapshot was verified and successfully restored to our warm standby test instance.
+0,Dinner Plans This Weekend?,"Hey, are you free this Saturday evening? A few of us are planning to check out the new Italian place downtown. Let me know!"
+0,Flight Booking Confirmation - Flight AI 502,Your booking for flight AI 502 from Bangalore to Delhi is confirmed. Departure: Friday 07:45 AM. Terminal 2. E-ticket attached.
+0,Your Grocery Delivery Order #48192 Has Arrived,Your grocery delivery order from FreshMart has been delivered to your front door. Thank you for shopping with us.
+0,Monthly Electricity Bill Payment Confirmation,Your payment of $64.50 for electricity bill account ending in 4102 has been successfully received. Current balance is $0.00.
+0,Gym Membership Renewal Notice,Your annual fitness center membership is set to expire on October 31. Renew before the expiration date to keep your loyalty rate.
+0,Photos from our Hiking Trip,Hey! I uploaded all the photos from our weekend hike in the hills to Google Drive. Here is the shared album link.
+0,Apartment Maintenance Schedule for Next Week,Building management will conduct annual fire alarm inspections and water tank cleaning on Wednesday between 9 AM and 1 PM.
+0,Your Amazon Package Has Been Shipped,Item 'Clean Architecture in Python' has been dispatched via BlueDart. Tracking number: BL920194812. Expected delivery tomorrow.
+0,Doctor Appointment Reminder for Tomorrow,This is a friendly reminder for your scheduled dental checkup with Dr. Patel tomorrow at 4:30 PM. Please arrive 10 minutes early.
+0,Happy Birthday from the Family!,"Wishing you a wonderful birthday filled with joy and success! Hope you have a great celebration today. With love, Uncle Mark."
+0,Movie Tickets Booking Confirmation,"Your 2 tickets for Interstellar (IMAX 70mm) on Sunday at 7:00 PM are confirmed. Screen 4, Seats F12 and F13."
+0,Vehicle Service Completion Notice,"Your car service at AutoCare Service Center is complete. Engine oil changed, brake inspection passed, and vehicle washed. Ready for pickup."
+0,Coffee catch-up next week,"Hey, it has been a while since we caught up! Let me know if you are free for coffee sometime next Tuesday or Wednesday afternoon."
+0,Mobile Recharge Successful,"Your prepaid mobile plan of $25 (30 days validity, 2GB/day) has been activated. Thank you for choosing Apex Telecom."
+0,Conference Badge Registration Confirmed,Your attendee registration for PyCon 2026 has been confirmed. Please present the QR code at the registration desk on arrival.
+1,"CONGRATULATIONS! You Won $2,500,000 Cash In International Lottery!","Dear Lucky Beneficiary, Your email has been randomly selected as the first prize winner of $2,500,000 USD in the 2026 International Sweepstakes Lottery. Claim your prize immediately by replying with your full name, banking details, passport scan, and mobile number. Do not disclose this message to third parties until funds are released."
+1,Claim Your Unclaimed Inheritance of $14.2M from Late Barrister,"I am Barrister Edward Cole, legal attorney to a deceased client who left $14,200,000 USD in escrow with no surviving heirs. I propose to present you as the next of kin to receive 40% of the funds. Send your private phone number and wire details urgently."
+1,Urgent: You Have Been Awarded a Brand New Mercedes-Benz C-Class!,"Official prize notification! You are the selected winner of a 2026 Mercedes-Benz sedan or equivalent $65,000 cash payout. Click here to confirm delivery address and pay the $150 processing fee."
+1,"Global Charity Grant Notification - $850,000 Donation","The Global Humanitarian Foundation is awarding $850,000 to selected individuals worldwide to support local community development. Reply with your details to receive wire payment."
+1,You Have (1) Unclaimed Cash Voucher Waiting for Redemption!,"Final reminder: Your $1,000 Walmart gift voucher is pending expiration tonight. Click the link below and complete a 2-minute survey to receive your voucher code instantly!"
+1,URGENT: Your Bank Account Has Been Temporarily Suspended,"Security Department Alert: Unauthorized login attempts were detected from an unknown IP address. Your online banking access is restricted. Click here immediately to verify your debit card number, expiration date, and PIN to restore full access. Failure to verify within 12 hours will result in permanent closure."
+1,Security Alert: Unusual Sign-In Detected on Your Email Account,"Your email password was used to log in from Moscow, Russia. If this was not you, verify your password and security questions immediately at http://security-verification-login-service.net/reset."
+1,Action Required: Your Cloud Storage Is Full and Emails Are Being Blocked,Your mailbox has exceeded the storage limit of 15 GB. Incoming emails are currently being rejected. Click here to upgrade your storage immediately for free and prevent message loss.
+1,Internal Revenue Service: Immediate Tax Refund Payment #IRS9021,"After the latest annual calculation of your fiscal activity, you are eligible for an immediate tax refund of $1,420.50. Complete the attached refund form with your banking credentials."
+1,PayPal Alert: Your Payment of $849.00 to CryptoExchange Has Been Placed,"If you did not authorize this purchase of $849.00 USD, call our fraud prevention hotline immediately at 1-800-FAKE-NUM or click cancel payment here to dispute the transaction."
+1,Microsoft 365 Account Expiration Notice: Renew Immediately,"Your Microsoft Office 365 license expires today. All your cloud documents, OneDrive files, and Outlook emails will be permanently deleted unless you confirm billing details now."
+1,FedEx Delivery Failure: Package Pending Delivery Address Update,We could not deliver your package #FX-920491 because the shipping address was incomplete. Pay the $2.99 re-delivery fee and confirm your street address within 24 hours to reschedule.
+1,Netflix Account Suspended: Update Payment Method to Continue Streaming,We were unable to process your monthly membership payment. Please update your credit card details immediately at our secure portal to avoid cancellation of your streaming service.
+1,HR Notice: Mandatory Employee Payroll and Direct Deposit Verification,All staff members must verify their employee identification and direct deposit bank accounts through the corporate intranet link before payroll processing on Friday.
+1,DocuSign: Please Sign Urgent Confidential Agreement #DOC-9921,You have received an urgent legal settlement agreement from an external counsel. Review and sign the document online within 6 hours by authenticating your company credentials.
+1,Miracle Weight Loss Supplement - Lose 20 Lbs in 2 Weeks No Exercise!,Brand new revolutionary keto weight loss pills melt body fat overnight! Clinically proven 100% natural herbal formula. 70% off flash sale today only with free worldwide shipping! Order now before inventory runs out!
+1,"Buy Generic Viagra, Cialis, Xanax Online Without Prescription!","Certified online pharmacy offers genuine generic medications at 80% discount! Fast discreet courier shipping, no doctor prescription required, 100% money back guarantee. Click here to view catalog."
+1,Eliminate Wrinkles in 7 Days with Secret Anti-Aging Serum,"Dermatologists hate this! Discover the secret miracle serum that erases wrinkles, age spots, and fine lines instantly. Claim your free trial bottle while supplies last!"
+1,Low Cost Dental Implants and Invisible Aligners - 75% Off,Get the perfect celebrity smile for pennies on the dollar! Top-rated local dentists offering limited-time promotional packages on dental implants and teeth straightening.
+1,Stop Snoring Permanently with This Breakthrough Device,"Revolutionary anti-snoring mouthpiece guarantees quiet, restful sleep from night one. Recommended by sleep doctors worldwide. Order today with 50% discount!"
+1,Double Your Bitcoin in 24 Hours with Automated AI Trading Bot!,"Automated cryptocurrency algorithmic arbitrage yields 250% daily ROI! Deposit 0.05 BTC and withdraw 0.125 BTC guaranteed. Zero risk, 10,000+ satisfied investors. Start making passive wealth today!"
+1,"Pre-Approved Business Loan of Up to $500,000 with No Credit Check!","Fast working capital funding for small business owners! Bad credit accepted, no collateral required, funds wired to your account in 24 hours. Apply now with zero upfront fees."
+1,"Work from Home and Earn $5,000 Every Week Online!",No experience needed! Reputable multinational marketing company is hiring remote data entry clerks. Work 2 hours per day from your laptop and earn up to $800 daily. Sign up now!
+1,Exclusive Stock Alert: Penny Stock Set to Surge 800% This Week!,Insider trading alert: Biomax Health ticker BMXH is about to announce FDA approval for breakthrough drug. Buy shares today before the massive short squeeze begins!
+1,Secret System to Eliminate Credit Card Debt Overnight Legally,"Erase all credit card debt, personal loans, and tax liabilities with government loophole program. 100% legal debt forgiveness. Call now for your free debt evaluation."
+0,CS8402 Course Material Available on LMS,The lecture slides and reading assignments for Module 2 have been published on the learning management portal. Please review before next class.
+0,Reminder: Submit Project Proposal by Wednesday,All final year student groups must submit their PBL project synopsis and architecture diagram to the department review panel by Wednesday.
+0,Colloquium on Quantum Computing Advances,You are cordially invited to attend the faculty research colloquium on superconducting qubits this Thursday afternoon.
+0,Hostel Room Allotment List for Odd Semester,The hostel warden office has published the room allotment list on the campus intranet bulletin board.
+0,Campus Blood Donation Camp This Saturday,The Youth Red Cross student chapter is organizing a voluntary blood donation drive at the health center. Volunteers are welcome.
+0,Exam Hall Ticket Download Available,Students eligible for end semester examinations can now download their digital hall tickets from the examination wing portal.
+0,Machine Learning Reading Group - Paper Discussion,We will discuss the Attention Is All You Need transformer paper in tomorrow's reading group. Join us in room 204.
+0,Campus Placement: Shortlisted Candidates for Round 2,The placement office has released the list of students shortlisted for technical interviews with Infosys. Interviews begin at 9 AM.
+0,Sports Meet 2026 Registration Open,"Inter-department football, basketball, and badminton tournament registrations are now open. Register your team with the physical director."
+0,Software Engineering Project Guidelines,"Ensure your final documentation includes data flow diagrams, use case specifications, and normalized schema DDL scripts."
+0,Graduation Ceremony Invitation and Robe Rental,The annual convocation ceremony will take place next month. Register for gown rental and guest passes through the registrar office.
+0,Python Data Science Workshop Hands-on Notebooks,Download the Jupyter notebooks for the Pandas and Scikit-Learn workshop from the attached GitHub repository link.
+0,Internship Completion Certificate Issued,Your certificate of completion for the 8-week software development internship has been approved and issued by the HR department.
+0,Maintenance Notice: Campus Servers Offline on Sunday,Campus DNS and database servers will be rebooted on Sunday evening for routine OS security updates. Services will resume by 8 PM.
+0,Class Representative Meeting with Department Head,All elected class representatives are requested to attend a brief coordination meeting with the HOD tomorrow at 1:30 PM.
+0,Notice of Scholarship Disbursement,The merit scholarship for the academic year has been credited to your registered bank account. Kindly verify your passbook.
+0,Research Paper Reviewer Feedback,The peer reviewers have returned their evaluation of your submission. Minor revisions are requested regarding the experimental methodology section.
+0,Faculty Feedback Form Submission Required,All students must submit the anonymous course evaluation and faculty feedback form on the portal before downloading hall tickets.
+0,Robotics Club Annual Exhibition,Come see student built autonomous quadcopters and obstacle avoiding rover robots at the campus central auditorium this Friday.
+0,Notice Regarding University Foundation Day,The university celebrates its foundation day on October 25th. Cultural programs and project exhibitions will be held throughout the day.
+0,Cloud Infrastructure Cost Optimization Meeting,Let us review our AWS and GCP usage for the staging clusters. We can save 30% by switching non-production workloads to spot instances.
+0,Code Review Comments on User Authentication Route,Please ensure JWT tokens have proper expiration timestamps and that revoked tokens are blacklisted in Redis.
+0,Monthly Sprint Retrospective Summary,Action items from yesterday's retrospective: improve test coverage for database functions and automate migration rollbacks.
+0,Client Meeting Notes and Action Items,Attached are the minutes of meeting from today's client sync. Milestone 3 deliverables are scheduled for handover next Friday.
+0,Design System Token Migration,Frontend team: please update color and typography variables in accordance with the new Tailwind theme definitions.
+0,Database Connection Pool Tuning,We noticed connection timeouts during load tests. We should increase max_overflow in SQLAlchemy engine configuration.
+0,Weekly Newsletter: AI Engineering Highlights,"In this week's edition: benchmarking vector databases, optimizing retrieval augmented generation, and fast tokenizer implementations."
+0,Doctor Prescription and Lab Test Summary,Dr. Rao has reviewed your lipid profile test results. Everything looks normal. Continue your current diet and schedule followup in 6 months.
+0,Your Electric Vehicle Charging Session Complete,Your vehicle charged 28.4 kWh at Station #12. Total cost: $8.52. Invoice has been sent to your registered email.
+0,Neighborhood Association Meeting Minutes,"Minutes from the community meeting covering park maintenance, street lighting, and recycling schedules are attached."
+0,Apartment Lease Renewal Confirmation,Your residential lease has been extended for another 12 months at the existing rental rate. Signed agreement attached.
+0,Train Ticket Confirmation - Coach B3 Berth 24,Your train booking for Express 12626 is confirmed. PNR: 4819203819. Boarding time: Sunday 06:15 AM.
+0,Order Confirmation: Books and Stationery,Thank you for your order #89123. Your textbooks and stationery set will be delivered within 3 business days.
+0,Gym Fitness Assessment Appointment,Your personal trainer consultation and body composition assessment is booked for Tuesday at 5:00 PM.
+0,Thank You for Attending the Webinar,Thank you for participating in our webinar on scalable cloud architectures. The recording and slide deck are available here.
+0,Home Internet Plan Renewal Receipt,Payment received for 300 Mbps fiber broadband plan. Your next billing date is November 10. Thank you for choosing FiberNet.
+0,Water Utility Bill for Current Month,Your monthly municipal water bill of $28.00 is ready for payment. Due date is the 25th of this month.
+0,Your Credit Card Statement Is Ready,Your monthly credit card statement for ending 9012 is generated. Minimum payment due: $0. Total balance: $412.30.
+0,Invitation: University Alumni Meet 2026,"Join us for an evening of networking, dinner, and nostalgia at the annual alumni gathering on November 28th."
+0,Notice of Power Outage for Substation Upgrade,Electricity supply will be interrupted in Sector 4 on Tuesday from 10 AM to 2 PM for transformer maintenance.
+1,"WIN $500,000 IN CASH! Click to Claim Your Reward Now!","Congratulations! You are the grand prize winner of our promotional lucky draw. Claim your $500,000 cash check now by sending your SSN and bank details."
+1,URGENT: Your Crypto Wallet Will Be Closed in 24 Hours,Verify your private seed phrase immediately to avoid total account suspension and loss of your crypto assets on our decentralized portal.
+1,Lose 30 Pounds Fast with Miracle Japanese Herbal Tea,No strict dieting or exercise needed! 100% natural organic tea burns belly fat in days. Order your 3-month supply today at 80% discount!
+1,"Pre-Approved Visa Gold Card with $25,000 Credit Limit!","No credit check, zero annual fee, instant pre-approval! Claim your $25,000 line of credit today by entering your date of birth and social security number."
+1,Your Parcel Could Not Be Delivered - Update Address,DHL Express: Package parcel #892147 cannot be delivered due to invalid zip code. Click link and pay $1.50 customs handling fee to receive parcel.
+1,Get Rich Fast! Automated Forex Signals 98% Accuracy,"Copy professional forex traders automatically and make $2,000 daily. Deposit $100 and watch your account balance grow effortlessly. Sign up free!"
+1,Exclusive Luxury Watches 90% Off Flash Clearance Sale,"Rolex, Omega, and Breitling replicas with Swiss movement at unbeatable prices. Limited stock available. Free expedited worldwide shipping!"
+1,Final Notice: Your Vehicle Warranty Is About to Expire,Our records show your automobile factory warranty has expired. Call our toll-free warranty center now to extend full bumper-to-bumper coverage.
+1,You Have Been Awarded an Apple iPhone 16 Pro Max!,Selected customer promo: You have been chosen to receive a free iPhone 16 Pro Max! Pay only $4.95 shipping and answer 3 questions to claim now.
+1,Earn $500/Day Doing Simple Online Reviews from Home,"Work anywhere, anytime! Major retail brands will pay you $50 per 5-minute product review. No experience needed. Start earning immediately today."
+1,ATTENTION: Suspicious Login to Your Bank Account Detected,We noticed a login from an unrecognized device in Frankfurt. Your account is on hold. Log in to our secure verification page to unfreeze your funds.
+1,"Unclaimed Wire Transfer of $3,800,000 Awaiting Your Reply","The central bank has approved wire transfer #CB-9821 of $3,800,000 USD to your name. Contact attorney agent James Smith with your passport scan to proceed."
+1,Cheap Generic Meds Without Doctor Approval Online,Order authentic prescription pills online with zero doctor visits! Overnight delivery in unmarked discreet packaging. Buy in bulk and save 75%!
+1,Your Amazon Account Has Been Locked Due to Fraud,We identified unusual transactions on your Amazon account. Verify your full billing address and credit card CVV within 24 hours to restore account access.
+1,Double Your Money in 7 Days Guaranteed Investment,"High yield investment program offers 100% net profit in one week. Backed by oil and gold assets. Join over 50,000 happy investors now!"
+1,Overdue Invoice #INV-92819 - Pay Immediately to Avoid Legal Action,"Attached is overdue invoice #INV-92819 for legal consulting services. Pay balance of $4,820 via cryptocurrency or face immediate legal proceedings."
+1,Urgent Security Notification: Netflix Subscription Suspended,"We could not renew your monthly streaming plan. Click here to confirm your credit card number, expiration date, and CVV code to restore service."
+1,Exclusive Discount on Designer Sunglasses and Bags,"Ray-Ban, Oakley, Gucci sunglasses starting at only $19.99! Wholesale prices direct from factory outlet. Shop now before sale ends!"
+1,"Congratulations! Your Application for $100,000 Grant Approved","The Federal Small Business Support Initiative has approved your $100,000 cash grant. No repayment required. Click to wire registration fee."
+1,Action Required: Your Mailbox Storage Is 99% Full,Your email service provider quota is nearly exceeded. Incoming messages will be bounced. Click here to validate and increase your mailbox storage.
+1,Guaranteed Casino Jackpots - Free $200 Welcome Bonus!,"Play online roulette, blackjack, and slots with a free $200 deposit bonus! Instant cashouts, zero wagering requirements. Register your account now!"
+1,"Urgent: Settlement Check of $7,400 Ready for Pickup",Class action lawsuit settlement fund has issued check #CK-9182 in your name. Reply with your mailing address and identity proof to receive your check.
+1,Refinance Your Mortgage at 1.99% Fixed Rate Today,Homeowners alert: Rates have dropped to historic lows! Lower your monthly mortgage payment by up to $600/month. No appraisal or fees required.
+1,Confirm Your Social Security Number to Prevent Suspension,The Social Security Administration has detected fraudulent activities on your SSN. Verify your full 9-digit SSN immediately to avoid legal arrest.
+1,Get Free $500 Target Gift Card - Limited Time Promotion,Target shoppers: Take our 60-second survey and receive an official $500 Target digital gift card. Only 10 vouchers remaining today!
+1,"Instant Cash Advance - Up to $5,000 Deposited in 1 Hour",Need emergency money fast? Instant payday loans with no credit check. Money wired directly to your checking account in 60 minutes.
+1,Reactivate Your Deactivated Email Account Immediately,"Your account was flagged for spamming. Log in through our portal within 6 hours to verify your identity, or your account will be permanently erased."
+1,Work As A Mystery Shopper and Make $250 Per Assignment,"We send you cash checks, you shop at local stores and evaluate customer service. Keep the items and get paid $250 per visit! Apply today."
+1,Stop Hair Loss in 14 Days - Clinically Proven Formula,"Regrow thick, healthy hair naturally! Doctor approved laser regrowth helmet now 65% off with free trial guarantee. Order now!"
+1,Exclusive Invitation: VIP Crypto Trading Club,Join our private Telegram group where top whale traders share 100x gem signals. Past accuracy 94.6%. 10 spots left! Join now.
+1,Congratulations! You Have Won an iPad Pro Tablet,Special promotion! Claim your brand new Apple iPad Pro 12.9 inch by verifying your delivery address and completing our sponsor survey.
+1,Urgent: Suspicious Activity on Your PayPal Balance,We have temporarily limited your PayPal balance due to suspicious activity. Confirm your debit card details immediately to unlock your funds.
+1,"You Are Pre-Approved for $75,000 Personal Loan",Low interest 2.5% fixed APR loan with no collateral or credit checks. Money deposited into your account in 24 hours. Apply now!
+1,Erase Bad Credit in 30 Days Guaranteed,"Boost your credit score by 200+ points! Remove collections, late payments, and bankruptcies legally with our credit repair service."
+1,Hot Singles in Your Area Want to Chat,Three new members within 5 miles viewed your profile! Click here to view their private photos and send free messages tonight.
+1,Tax Authority Final Notice: Impending Asset Seizure,Failure to settle your delinquent back taxes will result in immediate wage garnishment and asset seizure. Call our toll free number now.
+1,Claim Your $250 Fuel Rebate Voucher Today,Gas prices are high! Claim your $250 gas station fuel card by participating in the annual driver survey today. Limited vouchers available.
+1,Exclusive Luxury Cruise for 2 - 85% Discount Voucher,Sail the Caribbean for 7 days all-inclusive for only $199 per person! Book within 24 hours to receive free drink package and shore excursions.
+1,Attention: Your Online Cloud Storage Backup Failed,We were unable to backup your photos and documents because your subscription expired. Click here to renew immediately and prevent permanent data loss.
+1,"Make $10,000/Month Dropshipping with No Inventory",Automated Shopify ecommerce turnkey store generated $50k in sales last month! Purchase ready-made store today with 100% money back guarantee.
+1,Overnight Courier Delivery Pending - Pay Clearance Fee,Your package is held at the airport sorting hub due to unpaid customs clearance duties of $4.80. Pay online to release package for dispatch.
+1,Get Rid of Back Pain in 10 Minutes with Miracle Device,Orthopedic doctors recommend this revolutionary spinal decompression traction stretcher. 70% off flash discount for next 2 hours only!
+1,"Immediate Settlement of $4,500 Cash Awaiting Acceptance",You have been named as a claimant in an insurance settlement. Complete the direct deposit form with your banking routing number to receive wire transfer.
+1,Your Subscription to Norton Antivirus Has Been Renewed for $399,"Thank you for renewing Norton 360 Total Protection. $399.00 has been debited from your card. If you did not make this purchase, call 1-800-FAKE-NUM."
+1,Earn $150 Per Hour Participating in Medical Clinical Trials,Pharmaceutical research labs are seeking healthy volunteers for paid clinical trials. No medical history required. Sign up now!
+1,Urgent: Your Domain Name Expiration Notice,Your domain registration is scheduled for immediate deletion. Renew your domain and SEO submission package now to prevent transfer to another owner.
+1,Exclusive Wholesale Electronics Liquidations,"Brand new refurbished laptops, smartphones, and game consoles up to 90% below retail MSRP. Bulk liquidation pallets shipping worldwide!"
+1,Unlock Hidden Streaming Movies and TV Channels Free,"Stream unlimited live sports, pay-per-view events, and latest cinema releases with our jailbroken streaming device. One time payment only."
+1,You Have 3 Unread Secure Messages from Bank Compliance,Important compliance notice regarding international funds transfer limits. Authenticate your account credentials here to read secure document.
+1,Invest in Pre-IPO Artificial Intelligence Startup,Get early access to shares in revolutionary generative AI startup before NASDAQ listing. Projected 10x ROI upon public market debut!
+1,Notice: Your Vehicle Toll Tag Has an Overdue Balance,Final notice: Unpaid toll balance of $11.50 will incur a $100 penalty fee. Click link to pay online immediately via debit card.
+1,"Instant Approval Business Credit Line Up to $250,000","Zero documentation, bad credit okay! Fund inventory and payroll with revolving business credit line approved within minutes."
+1,Free Trial of Premium Sleep Optimization Gummies,Fall asleep in minutes and wake up refreshed! Natural herbal melatonin sleep gummies. Claim your complimentary trial bottle today!
+1,Final Courtesy Notice: Your Home Security System Needs Upgrade,Recent break-ins reported in your neighborhood! Upgrade to wireless smart camera system with zero equipment fees and $100 reward card.
+1,Urgent Notification Regarding Your Social Security Benefit Check,Your monthly benefit disbursement requires identity verification to ensure compliance with new federal guidelines. Verify SSN now.
+1,"Congratulations! Winner of $5,000 Home Depot Shopping Spree",You are the selected winner in our annual customer survey drawing! Receive your digital gift code by completing 3 quick questions.
+1,Double Your Retirement Savings with Gold IRA Rollover,"Protect your 401(k) from inflation and economic crash! Download our free 2026 Gold Investment Guide and receive up to $10,000 in free silver."
+1,Reduce Your Student Loan Debt by Up to 80% Legally,New federal debt relief programs allow eligible borrowers to forgive significant student loan balances. Check eligibility in 60 seconds!
+1,Your Amazon Delivery Is Delayed: Update Payment Information,Order #402-98124 cannot be dispatched due to an expired credit card. Click here to enter new card details and expedite delivery.
+1,Pre-Approved High Limit MasterCard - No Annual Fee,"Guaranteed acceptance! $10,000 line of credit with 0% introductory APR for 18 months. Complete quick application with social security number."
+1,Urgent Action: Your Apple ID Has Been Locked for Security,An unrecognized iPhone 14 tried to access your iCloud photos and Keychain. Sign in here to unlock your Apple ID immediately.
+1,Earn $50 Cash for Every Friend You Refer to Our Crypto Platform,Invite your friends and family to trade crypto! Get $50 bonus for each referral with zero trading volume requirements. Unlimited bonuses!
+1,Overdue Parking Violation Notice - Pay Before Warrant Issued,License plate citation #PRK-8921 is delinquent. Avoid vehicle impoundment and court summons by paying $45 fine online today.
+1,Urgent: Your Email Service Will Be Terminated Tonight,"Due to non-compliance with new email security regulations, your inbox will be suspended at 12:00 AM. Click here to verify your identity now."

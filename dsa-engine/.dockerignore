@@ -1,0 +1,4 @@
+out/
+frontend/
+*.log
+.DS_Store
